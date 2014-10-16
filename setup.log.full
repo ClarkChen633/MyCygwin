@@ -1,0 +1,295 @@
+2014/10/16 13:20:27 Starting cygwin install, version 2.850
+2014/10/16 13:20:27 User has backup/restore rights
+2014/10/16 13:20:27 Current Directory: C:\TMP\Cygwin
+2014/10/16 13:20:27 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2014/10/16 13:20:33 source: download
+2014/10/16 13:20:33 Selected local directory: C:\TMP\Cygwin
+2014/10/16 13:20:34 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://cygwin.com/mirrors.lst
+getUrlToStream http://cygwin.com/mirrors.lst
+2014/10/16 13:20:36 site: http://mirrors.kernel.org/sourceware/cygwin/
+get_url_to_membuf http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2
+getUrlToStream http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2
+get_url_to_membuf http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2.sig
+getUrlToStream http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2.sig
+2014/10/16 13:26:39 Adding required dependency bash-completion: Selecting version 1.3-1 for installation.
+2014/10/16 13:26:39 Adding required dependency crypt: Selecting version 1.1-1 for installation.
+2014/10/16 13:26:39 Adding required dependency csih: Selecting version 0.9.7-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cvs: Selecting version 1.11.23-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cvsps: Selecting version 2.2b1-2 for installation.
+2014/10/16 13:26:39 Adding required dependency cygrunsrv: Selecting version 1.61-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin-debuginfo: Selecting version 1.7.32-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32: Selecting version 1.7.31-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-binutils: Selecting version 2.24.51.20140603-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-default-manifest: Selecting version 6.3-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-gcc-core: Selecting version 4.8.3-2 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-gcc-g++: Selecting version 4.8.3-2 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-w32api-headers: Selecting version 3.2.0-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-w32api-runtime: Selecting version 3.2.0-1 for installation.
+2014/10/16 13:26:39 Adding required dependency cygwin32-zlib: Selecting version 1.2.8-1 for installation.
+2014/10/16 13:26:39 Adding required dependency diffutils: Selecting version 3.3-2 for installation.
+2014/10/16 13:26:39 Adding required dependency libapr1: Selecting version 1.4.8-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libaprutil1: Selecting version 1.5.4-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libedit0: Selecting version 20130712-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libiodbc2: Selecting version 3.52.8-2 for installation.
+2014/10/16 13:26:39 Adding required dependency libmysqlclient18: Selecting version 5.5.39-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libneon27: Selecting version 0.29.6-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libpq5: Selecting version 9.3.5-2 for installation.
+2014/10/16 13:26:39 Adding required dependency libproxy1: Selecting version 0.4.11-2 for installation.
+2014/10/16 13:26:39 Adding required dependency libserf1_0: Selecting version 1.3.7-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libXft2: Selecting version 2.3.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libXss1: Selecting version 1.2.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency libyaml0_2: Selecting version 0.1.6-1 for installation.
+2014/10/16 13:26:39 Adding required dependency lighttpd: Selecting version 1.4.35-1 for installation.
+2014/10/16 13:26:39 Adding required dependency lua: Selecting version 5.1.5-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Authen-SASL: Selecting version 2.16-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-DBD-SQLite: Selecting version 1.37-4 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-DBI: Selecting version 1.623-2 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Digest-HMAC: Selecting version 1.03-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Encode-Locale: Selecting version 1.03-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Error: Selecting version 0.17019-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-File-Listing: Selecting version 6.04-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-HTML-Parser: Selecting version 3.70-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-HTML-Tagset: Selecting version 3.20-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-HTTP-Cookies: Selecting version 6.01-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-HTTP-Date: Selecting version 6.02-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-HTTP-Message: Selecting version 6.06-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-HTTP-Negotiate: Selecting version 6.01-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-IO-Socket-IP: Selecting version 0.22-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-IO-Socket-SSL: Selecting version 1.997-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-LWP: Selecting version 6.05-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-LWP-MediaTypes: Selecting version 6.02-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-MailTools: Selecting version 2.12-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Mozilla-CA: Selecting version 20130114-2 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Net-HTTP: Selecting version 6.06-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Net-SMTP-SSL: Selecting version 1.01-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Net-SSLeay: Selecting version 1.65-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-Params-Util: Selecting version 1.07-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-TimeDate: Selecting version 2.30-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-URI: Selecting version 1.60-1 for installation.
+2014/10/16 13:26:39 Adding required dependency perl-WWW-RobotRules: Selecting version 6.02-1 for installation.
+2014/10/16 13:26:39 Adding required dependency python-backports.ssl_match_hostname: Selecting version 3.4.0.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency python-chardet: Selecting version 2.0.1-2 for installation.
+2014/10/16 13:26:39 Adding required dependency python-requests: Selecting version 2.3.0-1 for installation.
+2014/10/16 13:26:39 Adding required dependency python-setuptools: Selecting version 0.6.34-1 for installation.
+2014/10/16 13:26:39 Adding required dependency python-simplejson: Selecting version 3.6.3-1 for installation.
+2014/10/16 13:26:39 Adding required dependency python-six: Selecting version 1.7.3-1 for installation.
+2014/10/16 13:26:39 Adding required dependency python-urllib3: Selecting version 1.8.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency rsync: Selecting version 3.0.9-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby: Selecting version 2.0.0-p576-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby-io-console: Selecting version 0.4.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby-json: Selecting version 1.8.1-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby-minitest4: Selecting version 4.7.5-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby-psych: Selecting version 2.0.6-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby-rake: Selecting version 10.3.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency ruby-rdoc: Selecting version 4.1.2-1 for installation.
+2014/10/16 13:26:39 Adding required dependency rubygems: Selecting version 2.4.1-1 for installation.
+2014/10/16 13:26:39 Adding required dependency subversion-perl: Selecting version 1.8.10-2 for installation.
+2014/10/16 13:26:39 Adding required dependency tcl: Selecting version 8.5.11-1 for installation.
+2014/10/16 13:26:39 Adding required dependency tcl-tk: Selecting version 8.5.11-1 for installation.
+2014/10/16 13:26:39 Adding required dependency zlib-devel: Selecting version 1.2.8-1 for installation.
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/astyle/astyle-2.04-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/astyle/astyle-2.04-1.tar.xz.tmp
+2014/10/16 13:26:41 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/astyle/astyle-2.04-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/astyle/astyle-debuginfo/astyle-debuginfo-2.04-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/astyle/astyle-debuginfo/astyle-debuginfo-2.04-1.tar.xz.tmp
+2014/10/16 13:26:43 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/astyle/astyle-debuginfo/astyle-debuginfo-2.04-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/autossh/autossh-1.4d-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/autossh/autossh-1.4d-1.tar.xz.tmp
+2014/10/16 13:26:43 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/autossh/autossh-1.4d-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/bash-completion/bash-completion-1.3-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash-completion/bash-completion-1.3-1.tar.bz2.tmp
+2014/10/16 13:26:44 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash-completion/bash-completion-1.3-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/crypt/crypt-1.1-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/crypt-1.1-1.tar.bz2.tmp
+2014/10/16 13:26:45 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/crypt-1.1-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/csih/csih-0.9.7-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/csih/csih-0.9.7-1.tar.bz2.tmp
+2014/10/16 13:26:46 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/csih/csih-0.9.7-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cvs/cvs-1.11.23-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cvs/cvs-1.11.23-1.tar.bz2.tmp
+2014/10/16 13:26:49 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cvs/cvs-1.11.23-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cvsps/cvsps-2.2b1-2.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cvsps/cvsps-2.2b1-2.tar.bz2.tmp
+2014/10/16 13:26:50 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cvsps/cvsps-2.2b1-2.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygrunsrv/cygrunsrv-1.61-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygrunsrv/cygrunsrv-1.61-1.tar.xz.tmp
+2014/10/16 13:26:51 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygrunsrv/cygrunsrv-1.61-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin/cygwin-debuginfo/cygwin-debuginfo-1.7.32-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-debuginfo/cygwin-debuginfo-1.7.32-1.tar.xz.tmp
+2014/10/16 13:26:57 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-debuginfo/cygwin-debuginfo-1.7.32-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32/cygwin32-1.7.31-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32/cygwin32-1.7.31-1.tar.xz.tmp
+2014/10/16 13:27:00 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32/cygwin32-1.7.31-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-binutils/cygwin32-binutils-2.24.51.20140603-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-binutils/cygwin32-binutils-2.24.51.20140603-1.tar.xz.tmp
+2014/10/16 13:27:03 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-binutils/cygwin32-binutils-2.24.51.20140603-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-default-manifest/cygwin32-default-manifest-6.3-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-default-manifest/cygwin32-default-manifest-6.3-1.tar.xz.tmp
+2014/10/16 13:27:03 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-default-manifest/cygwin32-default-manifest-6.3-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-gcc/cygwin32-gcc-core/cygwin32-gcc-core-4.8.3-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-gcc/cygwin32-gcc-core/cygwin32-gcc-core-4.8.3-2.tar.xz.tmp
+2014/10/16 13:27:11 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-gcc/cygwin32-gcc-core/cygwin32-gcc-core-4.8.3-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-gcc/cygwin32-gcc-g++/cygwin32-gcc-g++-4.8.3-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-gcc/cygwin32-gcc-g++/cygwin32-gcc-g++-4.8.3-2.tar.xz.tmp
+2014/10/16 13:27:15 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-gcc/cygwin32-gcc-g++/cygwin32-gcc-g++-4.8.3-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-openssl/cygwin32-openssl-1.0.1e-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-openssl/cygwin32-openssl-1.0.1e-1.tar.bz2.tmp
+2014/10/16 13:27:17 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-openssl/cygwin32-openssl-1.0.1e-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-w32api-headers/cygwin32-w32api-headers-3.2.0-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-w32api-headers/cygwin32-w32api-headers-3.2.0-1.tar.xz.tmp
+2014/10/16 13:27:20 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-w32api-headers/cygwin32-w32api-headers-3.2.0-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-w32api-runtime/cygwin32-w32api-runtime-3.2.0-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-w32api-runtime/cygwin32-w32api-runtime-3.2.0-1.tar.xz.tmp
+2014/10/16 13:27:23 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-w32api-runtime/cygwin32-w32api-runtime-3.2.0-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin32-zlib/cygwin32-zlib-1.2.8-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-zlib/cygwin32-zlib-1.2.8-1.tar.bz2.tmp
+2014/10/16 13:27:24 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin32-zlib/cygwin32-zlib-1.2.8-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/diffutils/diffutils-3.3-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-2.tar.xz.tmp
+2014/10/16 13:27:26 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:31 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-completion/git-completion-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-completion/git-completion-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:31 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-completion/git-completion-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-cvs/git-cvs-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-cvs/git-cvs-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:32 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-cvs/git-cvs-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-debuginfo/git-debuginfo-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-debuginfo/git-debuginfo-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:37 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-debuginfo/git-debuginfo-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-email/git-email-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-email/git-email-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:38 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-email/git-email-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-gui/git-gui-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-gui/git-gui-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:40 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-gui/git-gui-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git-review/git-review-1.24-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git-review/git-review-1.24-2.tar.xz.tmp
+2014/10/16 13:27:40 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git-review/git-review-1.24-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/git-svn/git-svn-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-svn/git-svn-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:42 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/git-svn/git-svn-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/gitk/gitk-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/gitk/gitk-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:43 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/gitk/gitk-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/git/gitweb/gitweb-2.1.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/gitweb/gitweb-2.1.1-1.tar.xz.tmp
+2014/10/16 13:27:44 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/git/gitweb/gitweb-2.1.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libXft/libXft2/libXft2-2.3.2-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libXft/libXft2/libXft2-2.3.2-1.tar.xz.tmp
+2014/10/16 13:27:45 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libXft/libXft2/libXft2-2.3.2-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libXScrnSaver/libXss1/libXss1-1.2.2-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libXScrnSaver/libXss1/libXss1-1.2.2-1.tar.bz2.tmp
+2014/10/16 13:27:45 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libXScrnSaver/libXss1/libXss1-1.2.2-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libapr1/libapr1-1.4.8-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libapr1/libapr1-1.4.8-1.tar.bz2.tmp
+2014/10/16 13:27:46 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libapr1/libapr1-1.4.8-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libaprutil1/libaprutil1-1.5.4-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libaprutil1/libaprutil1-1.5.4-1.tar.xz.tmp
+2014/10/16 13:27:47 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libaprutil1/libaprutil1-1.5.4-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libedit/libedit0/libedit0-20130712-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libedit/libedit0/libedit0-20130712-1.tar.xz.tmp
+2014/10/16 13:27:48 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libiodbc/libiodbc2/libiodbc2-3.52.8-2.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiodbc/libiodbc2/libiodbc2-3.52.8-2.tar.bz2.tmp
+2014/10/16 13:27:50 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiodbc/libiodbc2/libiodbc2-3.52.8-2.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/mysql/libmysqlclient18/libmysqlclient18-5.5.39-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mysql/libmysqlclient18/libmysqlclient18-5.5.39-1.tar.xz.tmp
+2014/10/16 13:27:51 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mysql/libmysqlclient18/libmysqlclient18-5.5.39-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/neon/libneon27/libneon27-0.29.6-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/neon/libneon27/libneon27-0.29.6-1.tar.bz2.tmp
+2014/10/16 13:27:52 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/neon/libneon27/libneon27-0.29.6-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/postgresql/libpq5/libpq5-9.3.5-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/postgresql/libpq5/libpq5-9.3.5-2.tar.xz.tmp
+2014/10/16 13:27:53 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/postgresql/libpq5/libpq5-9.3.5-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libproxy/libproxy1/libproxy1-0.4.11-2.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libproxy/libproxy1/libproxy1-0.4.11-2.tar.bz2.tmp
+2014/10/16 13:27:54 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libproxy/libproxy1/libproxy1-0.4.11-2.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/serf/libserf1_0/libserf1_0-1.3.7-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/serf/libserf1_0/libserf1_0-1.3.7-1.tar.xz.tmp
+2014/10/16 13:27:55 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/serf/libserf1_0/libserf1_0-1.3.7-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libssh2/libssh2-debuginfo/libssh2-debuginfo-1.4.2-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libssh2/libssh2-debuginfo/libssh2-debuginfo-1.4.2-1.tar.bz2.tmp
+2014/10/16 13:27:57 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libssh2/libssh2-debuginfo/libssh2-debuginfo-1.4.2-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/libssh2/libssh2-devel/libssh2-devel-1.4.2-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libssh2/libssh2-devel/libssh2-devel-1.4.2-1.tar.bz2.tmp
+2014/10/16 13:27:58 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libssh2/libssh2-devel/libssh2-devel-1.4.2-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/yaml/libyaml0_2/libyaml0_2-0.1.6-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/yaml/libyaml0_2/libyaml0_2-0.1.6-1.tar.xz.tmp
+2014/10/16 13:27:59 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/yaml/libyaml0_2/libyaml0_2-0.1.6-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/lighttpd/lighttpd-1.4.35-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lighttpd/lighttpd-1.4.35-1.tar.xz.tmp
+2014/10/16 13:28:00 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lighttpd/lighttpd-1.4.35-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/lua/lua-5.1.5-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lua/lua-5.1.5-1.tar.bz2.tmp
+2014/10/16 13:28:01 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lua/lua-5.1.5-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/openssh/openssh-6.7p1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-6.7p1-1.tar.xz.tmp
+2014/10/16 13:28:03 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-6.7p1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/openssh/openssh-debuginfo/openssh-debuginfo-6.7p1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-debuginfo/openssh-debuginfo-6.7p1-1.tar.xz.tmp
+2014/10/16 13:28:06 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-debuginfo/openssh-debuginfo-6.7p1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/openssl/openssl-1.0.1i-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.1i-1.tar.xz.tmp
+2014/10/16 13:28:08 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.1i-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/openssl/openssl-debuginfo/openssl-debuginfo-1.0.1i-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-debuginfo/openssl-debuginfo-1.0.1i-1.tar.xz.tmp
+2014/10/16 13:28:10 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-debuginfo/openssl-debuginfo-1.0.1i-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/openssl/openssl-devel/openssl-devel-1.0.1i-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-devel/openssl-devel-1.0.1i-1.tar.xz.tmp
+2014/10/16 13:28:14 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-devel/openssl-devel-1.0.1i-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Authen-SASL/perl-Authen-SASL-2.16-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Authen-SASL/perl-Authen-SASL-2.16-1.tar.bz2.tmp
+2014/10/16 13:28:15 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Authen-SASL/perl-Authen-SASL-2.16-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-DBD-SQLite/perl-DBD-SQLite-1.37-4.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-DBD-SQLite/perl-DBD-SQLite-1.37-4.tar.bz2.tmp
+2014/10/16 13:28:17 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-DBD-SQLite/perl-DBD-SQLite-1.37-4.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-DBI/perl-DBI-1.623-2.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-DBI/perl-DBI-1.623-2.tar.bz2.tmp
+2014/10/16 13:28:19 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-DBI/perl-DBI-1.623-2.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Digest-HMAC/perl-Digest-HMAC-1.03-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Digest-HMAC/perl-Digest-HMAC-1.03-1.tar.bz2.tmp
+2014/10/16 13:28:20 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Digest-HMAC/perl-Digest-HMAC-1.03-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Encode-Locale/perl-Encode-Locale-1.03-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Encode-Locale/perl-Encode-Locale-1.03-1.tar.bz2.tmp
+2014/10/16 13:28:20 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Encode-Locale/perl-Encode-Locale-1.03-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Error/perl-Error-0.17019-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Error/perl-Error-0.17019-1.tar.bz2.tmp
+2014/10/16 13:28:21 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Error/perl-Error-0.17019-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-File-Listing/perl-File-Listing-6.04-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-File-Listing/perl-File-Listing-6.04-1.tar.bz2.tmp
+2014/10/16 13:28:22 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-File-Listing/perl-File-Listing-6.04-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-HTML-Parser/perl-HTML-Parser-3.70-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTML-Parser/perl-HTML-Parser-3.70-1.tar.bz2.tmp
+2014/10/16 13:28:23 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTML-Parser/perl-HTML-Parser-3.70-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-HTML-Tagset/perl-HTML-Tagset-3.20-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTML-Tagset/perl-HTML-Tagset-3.20-1.tar.bz2.tmp
+2014/10/16 13:28:23 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTML-Tagset/perl-HTML-Tagset-3.20-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-HTTP-Cookies/perl-HTTP-Cookies-6.01-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Cookies/perl-HTTP-Cookies-6.01-1.tar.bz2.tmp
+2014/10/16 13:28:24 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Cookies/perl-HTTP-Cookies-6.01-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-HTTP-Date/perl-HTTP-Date-6.02-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Date/perl-HTTP-Date-6.02-1.tar.bz2.tmp
+2014/10/16 13:28:24 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Date/perl-HTTP-Date-6.02-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-HTTP-Message/perl-HTTP-Message-6.06-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Message/perl-HTTP-Message-6.06-1.tar.bz2.tmp
+2014/10/16 13:28:25 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Message/perl-HTTP-Message-6.06-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-HTTP-Negotiate/perl-HTTP-Negotiate-6.01-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Negotiate/perl-HTTP-Negotiate-6.01-1.tar.bz2.tmp
+2014/10/16 13:28:26 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-HTTP-Negotiate/perl-HTTP-Negotiate-6.01-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-IO-Socket-IP/perl-IO-Socket-IP-0.22-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-IO-Socket-IP/perl-IO-Socket-IP-0.22-1.tar.bz2.tmp
+2014/10/16 13:28:26 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-IO-Socket-IP/perl-IO-Socket-IP-0.22-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-IO-Socket-SSL/perl-IO-Socket-SSL-1.997-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-IO-Socket-SSL/perl-IO-Socket-SSL-1.997-1.tar.xz.tmp
+2014/10/16 13:28:28 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-IO-Socket-SSL/perl-IO-Socket-SSL-1.997-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-LWP/perl-LWP-6.05-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-LWP/perl-LWP-6.05-1.tar.bz2.tmp
+2014/10/16 13:28:29 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-LWP/perl-LWP-6.05-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-LWP-MediaTypes/perl-LWP-MediaTypes-6.02-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-LWP-MediaTypes/perl-LWP-MediaTypes-6.02-1.tar.bz2.tmp
+2014/10/16 13:28:30 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-LWP-MediaTypes/perl-LWP-MediaTypes-6.02-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-MailTools/perl-MailTools-2.12-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-MailTools/perl-MailTools-2.12-1.tar.bz2.tmp
+2014/10/16 13:28:31 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-MailTools/perl-MailTools-2.12-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Mozilla-CA/perl-Mozilla-CA-20130114-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Mozilla-CA/perl-Mozilla-CA-20130114-2.tar.xz.tmp
+2014/10/16 13:28:31 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Mozilla-CA/perl-Mozilla-CA-20130114-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Net-HTTP/perl-Net-HTTP-6.06-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Net-HTTP/perl-Net-HTTP-6.06-1.tar.bz2.tmp
+2014/10/16 13:28:32 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Net-HTTP/perl-Net-HTTP-6.06-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Net-SMTP-SSL/perl-Net-SMTP-SSL-1.01-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Net-SMTP-SSL/perl-Net-SMTP-SSL-1.01-1.tar.bz2.tmp
+2014/10/16 13:28:32 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Net-SMTP-SSL/perl-Net-SMTP-SSL-1.01-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Net-SSLeay/perl-Net-SSLeay-1.65-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Net-SSLeay/perl-Net-SSLeay-1.65-1.tar.xz.tmp
+2014/10/16 13:28:34 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Net-SSLeay/perl-Net-SSLeay-1.65-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-Params-Util/perl-Params-Util-1.07-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Params-Util/perl-Params-Util-1.07-1.tar.bz2.tmp
+2014/10/16 13:28:34 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Params-Util/perl-Params-Util-1.07-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-TimeDate/perl-TimeDate-2.30-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-TimeDate/perl-TimeDate-2.30-1.tar.bz2.tmp
+2014/10/16 13:28:35 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-TimeDate/perl-TimeDate-2.30-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-URI/perl-URI-1.60-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-URI/perl-URI-1.60-1.tar.bz2.tmp
+2014/10/16 13:28:36 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-URI/perl-URI-1.60-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/perl-WWW-RobotRules/perl-WWW-RobotRules-6.02-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-WWW-RobotRules/perl-WWW-RobotRules-6.02-1.tar.bz2.tmp
+2014/10/16 13:28:37 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-WWW-RobotRules/perl-WWW-RobotRules-6.02-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-backports.ssl_match_hostname/python-backports.ssl_match_hostname-3.4.0.2-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-backports.ssl_match_hostname/python-backports.ssl_match_hostname-3.4.0.2-1.tar.xz.tmp
+2014/10/16 13:28:37 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-backports.ssl_match_hostname/python-backports.ssl_match_hostname-3.4.0.2-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-chardet/python-chardet-2.0.1-2.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-chardet/python-chardet-2.0.1-2.tar.bz2.tmp
+2014/10/16 13:28:39 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-chardet/python-chardet-2.0.1-2.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-requests/python-requests-2.3.0-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-requests/python-requests-2.3.0-1.tar.xz.tmp
+2014/10/16 13:28:40 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-requests/python-requests-2.3.0-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-setuptools/python-setuptools-0.6.34-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-setuptools/python-setuptools-0.6.34-1.tar.bz2.tmp
+2014/10/16 13:28:42 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-setuptools/python-setuptools-0.6.34-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-simplejson/python-simplejson-3.6.3-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-simplejson/python-simplejson-3.6.3-1.tar.xz.tmp
+2014/10/16 13:28:43 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-simplejson/python-simplejson-3.6.3-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-six/python-six-1.7.3-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-six/python-six-1.7.3-1.tar.xz.tmp
+2014/10/16 13:28:43 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-six/python-six-1.7.3-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/python-urllib3/python-urllib3-1.8.2-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-urllib3/python-urllib3-1.8.2-1.tar.xz.tmp
+2014/10/16 13:28:44 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/python-urllib3/python-urllib3-1.8.2-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/rsync/rsync-3.0.9-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.0.9-1.tar.bz2.tmp
+2014/10/16 13:28:46 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.0.9-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby/ruby-2.0.0-p576-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby/ruby-2.0.0-p576-1.tar.xz.tmp
+2014/10/16 13:28:49 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby/ruby-2.0.0-p576-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby-io-console/ruby-io-console-0.4.2-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-io-console/ruby-io-console-0.4.2-1.tar.xz.tmp
+2014/10/16 13:28:50 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-io-console/ruby-io-console-0.4.2-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby-json/ruby-json-1.8.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-json/ruby-json-1.8.1-1.tar.xz.tmp
+2014/10/16 13:28:51 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-json/ruby-json-1.8.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby-minitest4/ruby-minitest4-4.7.5-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-minitest4/ruby-minitest4-4.7.5-1.tar.xz.tmp
+2014/10/16 13:28:51 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-minitest4/ruby-minitest4-4.7.5-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby-psych/ruby-psych-2.0.6-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-psych/ruby-psych-2.0.6-1.tar.xz.tmp
+2014/10/16 13:28:52 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-psych/ruby-psych-2.0.6-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby-rake/ruby-rake-10.3.2-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-rake/ruby-rake-10.3.2-1.tar.xz.tmp
+2014/10/16 13:28:53 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-rake/ruby-rake-10.3.2-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/ruby-rdoc/ruby-rdoc-4.1.2-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-rdoc/ruby-rdoc-4.1.2-1.tar.xz.tmp
+2014/10/16 13:28:54 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ruby-rdoc/ruby-rdoc-4.1.2-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/rubygems/rubygems-2.4.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rubygems/rubygems-2.4.1-1.tar.xz.tmp
+2014/10/16 13:28:56 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rubygems/rubygems-2.4.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/stgit/stgit-0.17.1-1.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/stgit/stgit-0.17.1-1.tar.xz.tmp
+2014/10/16 13:28:57 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/stgit/stgit-0.17.1-1.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/subversion/subversion-1.8.10-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-1.8.10-2.tar.xz.tmp
+2014/10/16 13:29:00 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-1.8.10-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/subversion/subversion-debuginfo/subversion-debuginfo-1.8.10-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-debuginfo/subversion-debuginfo-1.8.10-2.tar.xz.tmp
+2014/10/16 13:29:05 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-debuginfo/subversion-debuginfo-1.8.10-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/subversion/subversion-perl/subversion-perl-1.8.10-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-perl/subversion-perl-1.8.10-2.tar.xz.tmp
+2014/10/16 13:29:07 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-perl/subversion-perl-1.8.10-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/subversion/subversion-tools/subversion-tools-1.8.10-2.tar.xz C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-tools/subversion-tools-1.8.10-2.tar.xz.tmp
+2014/10/16 13:29:08 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/subversion/subversion-tools/subversion-tools-1.8.10-2.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/tcl/tcl-8.5.11-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tcl/tcl-8.5.11-1.tar.bz2.tmp
+2014/10/16 13:29:11 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tcl/tcl-8.5.11-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/tcl-tk/tcl-tk-8.5.11-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tcl-tk/tcl-tk-8.5.11-1.tar.bz2.tmp
+2014/10/16 13:29:14 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tcl-tk/tcl-tk-8.5.11-1.tar.bz2
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin//x86_64/release/zlib/zlib-devel/zlib-devel-1.2.8-1.tar.bz2 C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib-devel/zlib-devel-1.2.8-1.tar.bz2.tmp
+2014/10/16 13:29:16 Downloaded C:\TMP\Cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib-devel/zlib-devel-1.2.8-1.tar.bz2
+2014/10/16 13:29:23 note: Download Complete
+2014/10/16 13:29:23 Ending cygwin install
